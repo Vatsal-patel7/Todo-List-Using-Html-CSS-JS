@@ -2,6 +2,7 @@
 
 A simple, minimalistic Todo application built with **HTML**, **CSS**, and **JavaScript**. This app allows users to add and delete tasks in a clean dark-themed interface.
 
+## Live: ![Live](https://todobyvatsal.netlify.app/)
 ## 🚀 Features
 
 - 🌑 Dark theme with gradient background
